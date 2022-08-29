@@ -1,0 +1,17 @@
+*, body{
+   border-style: solid; 
+   margin: 0%;
+   background-color: black;
+}
+figure{
+    align-items: center;
+}
+.logo {
+    width: 100%;
+    color: red;
+}
+
+#container{
+    background-color: black;
+}
+
